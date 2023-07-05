@@ -24,7 +24,8 @@
 }
 
 .task_3 h1 {
-  writing-mode: vertical-rl;
+  writing-mode: vertical-lr;
+  transform: scale(-1);
 }
 
 .task_3 pre {
